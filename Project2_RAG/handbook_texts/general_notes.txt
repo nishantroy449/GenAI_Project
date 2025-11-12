@@ -1,0 +1,5 @@
+Always comment your code for readability.  
+Write modular and reusable functions.  
+Version control helps track project history.  
+Debugging is an essential skill for every developer.  
+Keep practicing regularly to improve problem-solving skills.  
