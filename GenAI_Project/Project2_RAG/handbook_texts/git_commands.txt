@@ -1,6 +1,0 @@
-Git is a version control system.  
-Use git init to initialize a new repository.  
-git add stages changes, and git commit saves them.  
-git status shows modified files.  
-git push uploads commits to a remote repository.  
-git pull fetches and merges updates from the remote.  

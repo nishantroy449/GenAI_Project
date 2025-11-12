@@ -1,6 +1,0 @@
-Python is a popular high-level programming language.  
-It uses indentation to define code blocks.  
-Variables in Python are dynamically typed.  
-Functions are defined using the def keyword.  
-Lists, tuples, and dictionaries are common data structures.  
-Modules can be imported using the import statement.  
